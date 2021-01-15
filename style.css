@@ -7,6 +7,9 @@ button{
     background-color:silver
     }
     
+#ac, #equal{
+    width: 240px;
+    }
 
 input{
     font-size: 48px;
